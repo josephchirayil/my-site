@@ -1,8 +1,8 @@
 ---
 title: Home
-summary: Weclome to my website
-description: This is the landing page of my website
+summary: Welcome to my website!
+description: This is the main page of my website.
 ---
 # Welcome to my web site
 
-Welcome! My name is Joseph.
+Welcome! My name is Joseph. I am a student in 7th grade and I love to be creative!
