@@ -1,7 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://josephchirayil.github.io/'
 languageCode = 'en-us'
 title = 'My Web Site'
 copyright = "(c) 2005 - Joseph Chirayil. All rights reserved."
+theme = 'ananke'
 [menus]
     [[menus.main]]
         name = "Home"
