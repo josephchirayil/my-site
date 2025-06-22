@@ -13,4 +13,4 @@ theme = 'ananke'
         pageRef = "/about"
         weight = 30
 [outputs]
-    home = ["HTML", "JSON"]
+    home = ["HTML"]
