@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My Web Site'
+copyright = "(c) 2005 - Joseph Chirayil. All rights reserved."
+[menus]
+    [[menus.main]]
+        name = "Home"
+        pageRef = "/"
+        weight = 10
+    [[menus.main]]
+        name = "About"
+        pageRef = "/about"
+        weight = 30
+[outputs]
+    home = ["HTML", "JSON"]
